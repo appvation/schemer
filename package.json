@@ -1,7 +1,7 @@
 {
   "name": "parse-schemer",
   "version": "1.0.0",
-  "description": "add, delete and output fields on a Parse Application",
+  "description": "CLI for Parse.com Schema API.",
   "bin": "./schemer.js",
   "author": "Will Russell",
   "license": "ISC",

@@ -1,0 +1,17 @@
+{
+  "name": "schemer",
+  "version": "1.0.0",
+  "description": "add, delete and output fields on a Parse Application",
+  "bin": "./schemer.js",
+  "author": "Will Russell",
+  "license": "ISC",
+  "repository": 
+    { "type" : "git",
+      "url" : "https://github.com/appvation/schemer.git"
+    },
+  "dependencies": {
+    "commander": "^2.8.1",
+    "moment": "^2.10.3",
+    "restler": "^3.2.2"
+  }
+}

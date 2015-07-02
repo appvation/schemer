@@ -3,7 +3,7 @@
 ## Quickstart
 
 1. `npm install -g parse-schemer`
-2. `schemer output -i [PARSE-APPLICATION-ID] -k [PARSE-MASTER-KEY] [CLASSNAME]`
+2. `parse-schemer output -i [PARSE-APPLICATION-ID] -k [PARSE-MASTER-KEY] [CLASSNAME]`
 
 
 ## Commands:

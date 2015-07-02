@@ -1,5 +1,5 @@
 {
-  "name": "schemer",
+  "name": "parse-schemer",
   "version": "1.0.0",
   "description": "add, delete and output fields on a Parse Application",
   "bin": "./schemer.js",

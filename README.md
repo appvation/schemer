@@ -41,3 +41,16 @@ Options:
     -e, --environment [environment]      Environment
     -i, --applicationId [applicationId]  application ID
     -k, --masterKey [masterKey]          master key
+
+
+### Output
+
+Usage: output [options] [className]
+
+output a class schema
+
+Options:
+
+    -h, --help                           output usage information
+    -i, --applicationId [applicationId]  application ID
+    -k, --masterKey [masterKey]          master key

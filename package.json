@@ -4,7 +4,7 @@
   "description": "CLI for Parse.com Schema API.",
   "bin": "./schemer.js",
   "author": "Will Russell",
-  "license": "ISC",
+  "license": "MIT",
   "repository": 
     { "type" : "git",
       "url" : "https://github.com/appvation/schemer.git"
